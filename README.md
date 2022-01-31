@@ -5,4 +5,4 @@
   * Part3: Age estimation using machine learning algorithms [In progress..]
 
 
-![This is an image](https://github.com/sawsanowa/Age_Estimation_Using_LL3rdM/blob/main/U-Net_Model_Architecture_512x256.png)
+![This is an image](https://github.com/sawsanowa/Age_Estimation_Using_LL3rdM/blob/main/Model_Architecture/U-Net_Model_Architecture_512x256.png)
