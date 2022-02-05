@@ -20,7 +20,7 @@ Three models are evaluated:
 
 <p align="center"> 
 
-<img width="700" height="400" src="https://github.com/sawsanowa/Age_Estimation_Using_LL3rdM/blob/main/Model_Architecture/U-Net_Model_Architecture_512x256.png"/>
+<img width="700" height="400" src="https://github.com/sawsanowa/Age_Estimation_Using_LL3rdM/blob/main/Model_Architecture/U-net%20Arch%20256x512x1.png"/>
  
 </p>
 
