@@ -39,10 +39,10 @@ Three models are evaluated:
 
 <p>
  
-- cv2  – A python computer vision library used to read, modify, and transform images into various formats. 
-- Imutils  – A package contains image processing functions. From Imutils, we will import the “perspective” function, which is used to sort the points based on their coordinates. 
-- SciPy  – A collection of convenience functions and mathematical algorithms. From SciPy, we will import the subpackage “spatial” that contains the function “distance,” which is used to measure the distance between points. 
-- Matplotlib  – A python library for creating visualizations. 
-- NumPy  – A python package used for scientific computing with python. Images in python are represented as NumPy arrays. 
+- [cv2](https://pypi.org/project/opencv-python/) – A python computer vision library used to read, modify, and transform images into various formats. 
+- [Imutils](https://pypi.org/project/imutils/)  – A package contains image processing functions. From Imutils, we will import the “perspective” function, which is used to sort the points based on their coordinates. 
+- [SciPy](https://scipy.github.io/devdocs/index.html)  – A collection of convenience functions and mathematical algorithms. From SciPy, we will import the subpackage “spatial” that contains the function “distance,” which is used to measure the distance between points. 
+- [Matplotlib](https://matplotlib.org/)  – A python library for creating visualizations. 
+- [NumPy](https://numpy.org/)  – A python package used for scientific computing with python. Images in python are represented as NumPy arrays. 
 
 </p>
