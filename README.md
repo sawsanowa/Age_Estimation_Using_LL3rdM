@@ -37,7 +37,7 @@ Three models are evaluated:
 
 <hr>
 
-<h3> TOOLS AND ALGORITHMS </h3>
+<h3> Tools and Algorithms </h3>
 
 <p>
  
