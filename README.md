@@ -37,6 +37,8 @@ Three models are evaluated:
 
 <hr>
 
+<h3> TOOLS AND ALGORITHMS </h3>
+
 <p>
  
 - [cv2](https://pypi.org/project/opencv-python/) – A python computer vision library used to read, modify, and transform images into various formats. 
